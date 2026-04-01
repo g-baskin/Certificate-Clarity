@@ -1,0 +1,21 @@
+Certificate Clarity
+Copyright (C) 2026  Gregory Baskin  <gregory.baskin@gmail.com>
+
+Licensed under the GNU General Public License v3.0 only. See the file LICENSE
+for the full license text.
+
+Plain-language summary (not a substitute for the license):
+
+  • If someone sells or otherwise gives this software to others, they must
+    include this copyright notice, your license information, and the GPL text
+    with what they distribute.
+
+  • They must offer the complete corresponding source code to the same people
+    who receive the binary or product, under the same GPL terms — so the code
+    stays shareable downstream. The GPL does not require sending source only
+    back to the author; it requires sharing it with recipients. Because this
+    repository is public, you (and anyone) can always obtain the source here.
+
+If you need “anyone who runs this as a paid web service must share source,”
+consider the GNU Affero General Public License (AGPL-3.0) instead; ask a lawyer
+for product-specific licensing.
